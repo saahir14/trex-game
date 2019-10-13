@@ -1,0 +1,2 @@
+# trex-game
+made by javascript (THIS IS ALL ORIGINAL WORK AND HAS NOT BEEN COPIED FROM OTHER SITES,TRUST ME!!!)
